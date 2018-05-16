@@ -1,0 +1,1 @@
+Data Analysis and Predictive Modeling of Loan Charge-Offs using Lending Club Borrower: conduct exploratory data analysis to predict "charge-off" status of loans with 91% accuracy. Methods: logistic regression model, random forests, XGBboosting, ADAbossting and SVM. Analysis and predictive modeling done in R.
